@@ -1,0 +1,27 @@
+.box-title{
+    color:white;
+    font-weight: 600;
+    font-size: 18px;
+    width: 100%;
+    text-align: left;
+    padding: 0 20px; 
+}
+.notif{
+    width: 100%;
+    height: 250px;
+    border-radius: 15px;
+    backdrop-filter:blur(30px);
+    background-color: #ffffff67;
+    color:white;
+    font-size: 17px;
+    padding: 20px;
+    text-decoration:wavy;
+    line-height: 40px;
+}
+.title{
+    font-size: 25px;
+}
+.notification-content{
+    margin-top: 20px;
+    text-align: start;
+}

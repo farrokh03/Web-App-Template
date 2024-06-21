@@ -1,0 +1,9 @@
+.HomeDesigninformationbox{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content:space-around;
+    align-items:flex-end;
+    background: radial-gradient(rgba(136, 96, 71, 0.968), rgb(255, 138, 13));
+
+}
